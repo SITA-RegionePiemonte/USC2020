@@ -3,3 +3,6 @@ Per agevolare la redazione degli strumenti urbanistici come previsto dai documen
 Il progetto deve essere salvato in una cartella insiema al geopackage (USC2020.gpkg) che contiene i dati del Ppr e le tabelle di dominio necessarie per il funzionamento delle maschere di interrogazione e data entry.
 
 Per scaricare la versione più aggiornata, vedere la release più recente.
+
+
+geopackage(/releases/download/v.0.1-alpha/USC2020_v.0.1-alpha.qgs)
