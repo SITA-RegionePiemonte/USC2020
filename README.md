@@ -6,7 +6,7 @@ La documentazione ufficiale è allegata alla [Deliberazione della Giunta Regiona
 
   [Fascicolo 1 - Le componenti normalizzate](/docs/USC_fascicolo1_ComponentiNormalizzate_v2_dicembre2020-compresso.pdf)
 
-  [Fascicolo 2 - Gli elaborati di consegna](/docs/USC_fascicolo2_USC_fascicolo2_ElaboratiConsegna_v02_dicembre2020-compresso.pdf)
+  [Fascicolo 2 - Gli elaborati di consegna](/docs/USC_fascicolo2_ElaboratiConsegna_v02_dicembre2020-compresso.pdf)
 
   [Fascicolo 3 - Catalogo della banca dati urbanistica - Specifica informatica](/docs/USC_fascicolo3_specificaInformatica_v02_dicembre2020-compresso.pdf)
 
