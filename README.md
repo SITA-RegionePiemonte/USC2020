@@ -18,3 +18,6 @@ Per scaricare la versione più aggiornata, vedere la <b>release</b> più recente
 <p align="center"> 
 <img src="/immagini/USC.png" alt="drawing" width="400">
 </p>
+
+##Licenza
+[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it)
