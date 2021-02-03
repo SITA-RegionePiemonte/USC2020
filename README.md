@@ -15,5 +15,5 @@ Maggiori informazioni su https://www.regione.piemonte.it/web/temi/ambiente-terri
 Una versione preliminare di progetto QGIS3.x è disponibile nella cartella [progetto QGIS e dati](/progetto%20QGIS%20e%20dati).
 
 <p align="center"> 
-<img src="/static/USC.png" alt="drawing" width="400">
+<img src="/immagini/USC.png" alt="drawing" width="400">
 </p>
