@@ -5,7 +5,3 @@ Il progetto deve essere salvato in una cartella insiema al geopackage (USC2020.g
 Per scaricare la versione più aggiornata, vedere la release più recente.
 
 
-
-[progetto](/releases/download/v.0.1-alpha/USC2020_v.0.1-alpha.qgs)
-
-[geopackage](https://github.com/silettog/USC2020/releases/download/v.0.1-alpha/USC2020.zip)
