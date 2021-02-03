@@ -12,7 +12,7 @@ La documentazione ufficiale è allegata alla [Deliberazione della Giunta Regiona
 
 Maggiori informazioni su https://www.regione.piemonte.it/web/temi/ambiente-territorio/territorio/urbanistica/urbanistica-senza-carta.
 
-Un progetto QGIS3.x e gli shapefile vuoti strutturati come da specifica è disponibile nella cartella [shapefile](/shapefiles).
+Un progetto QGIS3.x e gli shapefile vuoti strutturati come da specifica è disponibile nella cartella [progetto QGIS e dati](/progetto QGIS e dati).
 
 <p align="center"> 
 <img src="/static/USC.png" alt="drawing" width="400">
