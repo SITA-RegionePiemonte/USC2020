@@ -11,7 +11,7 @@ La documentazione ufficiale è allegata alla [Deliberazione della Giunta Regiona
 Maggiori informazioni sul progetto USC: https://www.regione.piemonte.it/web/temi/ambiente-territorio/territorio/urbanistica/urbanistica-senza-carta.
 
 Per informazioni su progetto QGIS3.x e dataset vedere [progetto QGIS e dati](/progetto%20QGIS%20e%20dati). 
-Per scaricare la versione più aggiornata, vedere a destra della pagina la <b>release</b> più recente (*Latest*).
+<b>Per scaricare la versione più aggiornata, vedere a destra della pagina la release più recente (*Latest*).</b>
 
 <p align="center"> 
 <img src="/immagini/USC.png" alt="drawing" width="400">
