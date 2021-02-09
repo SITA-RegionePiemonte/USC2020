@@ -3,6 +3,9 @@
 
 Il progetto QGIS, realizzato su Qgis 3.10, comprende tutti gli Strati, Temi e Classi previsti dalla Specifica (fascicolo 3), ordinati nella Table of Content (TOC) nello stesso modo (Fig.1).
 
+<p align="center"> 
+<img src="/immagini/help_TOC.gif" alt="drawing" width="400">
+</p>
 _Fig. 1 - La TOC del progetto è organizzata in Strati, Temi e Classi come la specifica (Fascicolo 3)_
 
 I vari livelli (corrispondenti alle classi della specifica) sono contenuti in un unico file (USC2020.gpkg), insieme alle tabelle contenenti i domini degli attributi.
@@ -30,7 +33,7 @@ Il progetto presenta, inoltre, già precaricati alcuni servizi di mappa (WMS e W
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.png "image_tooltip")
+![esempio Metadati](immagini/help_Metadati.gif "esempio Metadati")
 
 
 _Fig. 2 - Tabella metadati. Sostituire il contenuto con le informazioni relative ai file di consegna. Ad ogni fase procedimentale corrisponde una versione dei file di consegna, e quindi la tabella conterrà sempre un solo record (riga)._
