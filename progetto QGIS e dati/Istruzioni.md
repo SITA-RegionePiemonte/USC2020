@@ -28,10 +28,6 @@ Si rimane a disposizione per eventuali necessità di chiarimenti sugli aspetti t
 Il progetto presenta, inoltre, già precaricati alcuni servizi di mappa (WMS e WFS) che possono essere di utilità. Ulteriori servizi, maggiori informazioni e, se presenti, i dati in scarico sono recuperabili dal Geoportale Piemonte.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![esempio Metadati](/immagini/help_Metadati.gif "esempio Metadati")
 
 
@@ -39,28 +35,19 @@ _Fig. 2 - Tabella metadati. Sostituire il contenuto con le informazioni relative
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![esempio maschera data input1](/immagini/help_mask1.gif "esempio maschera data input1")
 
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![esempio maschera data input2](/immagini/help_mask2.gif "esempio maschera data input2")
 
 
 _Fig. 3 - Esempio di maschera per l’inserimento dei dati. Il tab “HELP” contiene indicazioni per la compilazione_
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image4.png "image_tooltip")
+![impostazione variabili](/immagini/help_variabili.png "impostazione variabili")
 
 
 _Fig. 4 - Impostazione della variabile di progetto “ISTAT”._
