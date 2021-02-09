@@ -3,9 +3,8 @@
 
 Il progetto QGIS, realizzato su Qgis 3.10, comprende tutti gli Strati, Temi e Classi previsti dalla Specifica (fascicolo 3), ordinati nella Table of Content (TOC) nello stesso modo (Fig.1).
 
-<p align="center"> 
-<img src="/immagini/help_TOC.gif" alt="drawing" width="400">
-</p>
+![TOC](immagini/help_TOC.gif "TOC di QGIS")
+
 _Fig. 1 - La TOC del progetto è organizzata in Strati, Temi e Classi come la specifica (Fascicolo 3)_
 
 I vari livelli (corrispondenti alle classi della specifica) sono contenuti in un unico file (USC2020.gpkg), insieme alle tabelle contenenti i domini degli attributi.
