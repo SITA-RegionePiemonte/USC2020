@@ -30,13 +30,12 @@ Il progetto presenta, inoltre, già precaricati alcuni servizi di mappa (WMS e W
 
 ![esempio Metadati](/immagini/help_Metadati.gif "esempio Metadati")
 
-
 _Fig. 2 - Tabella metadati. Sostituire il contenuto con le informazioni relative ai file di consegna. Ad ogni fase procedimentale corrisponde una versione dei file di consegna, e quindi la tabella conterrà sempre un solo record (riga)._
 
 
 
-![esempio maschera data input1](/immagini/help_mask1.gif "esempio maschera data input1")
 
+![esempio maschera data input1](/immagini/help_mask1.gif "esempio maschera data input1")
 
 
 ![esempio maschera data input2](/immagini/help_mask2.gif "esempio maschera data input2")
@@ -47,8 +46,8 @@ _Fig. 3 - Esempio di maschera per l’inserimento dei dati. Il tab “HELP” co
 
 
 
-![impostazione variabili](/immagini/help_variabili.gif "impostazione variabili")
 
+![impostazione variabili](/immagini/help_variabili.gif "impostazione variabili")
 
 _Fig. 4 - Impostazione della variabile di progetto “ISTAT”._
 
