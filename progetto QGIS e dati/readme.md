@@ -5,4 +5,6 @@ Il progetto deve essere salvato in una cartella insiema al geopackage (USC2020.g
 Per scaricare la versione più aggiornata, vedere a destra della [pagina principale](https://github.com/SITA-RegionePiemonte/USC2020) la <b>release</b> più recente (*Latest*).
 
 
-Un documento di aiuto è consultabile [qui](https://docs.google.com/document/d/1Fz5zn54UdLSFZMBj04jOkxKPfY_u2rV75DFCAJcHPvU/view)
+Un documento di aiuto è consultabile [qui](/istruzioni.md)
+
+(https://docs.google.com/document/d/1Fz5zn54UdLSFZMBj04jOkxKPfY_u2rV75DFCAJcHPvU/view)
