@@ -7,4 +7,3 @@ Per scaricare la versione più aggiornata, vedere a destra della [pagina princip
 
 Un documento di aiuto è consultabile [qui](Istruzioni.md)
 
-(https://docs.google.com/document/d/1Fz5zn54UdLSFZMBj04jOkxKPfY_u2rV75DFCAJcHPvU/view)
