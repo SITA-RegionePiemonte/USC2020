@@ -47,7 +47,7 @@ _Fig. 3 - Esempio di maschera per l’inserimento dei dati. Il tab “HELP” co
 
 
 
-![impostazione variabili](/immagini/help_variabili.gif"impostazione variabili")
+![impostazione variabili](/immagini/help_variabili.gif "impostazione variabili")
 
 
 _Fig. 4 - Impostazione della variabile di progetto “ISTAT”._
