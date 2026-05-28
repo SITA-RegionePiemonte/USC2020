@@ -14,6 +14,10 @@ Per informazioni su progetto QGIS3.x e dataset vedere [progetto QGIS e dati](/pr
 
 <b>Per scaricare la versione più aggiornata, vedere a destra della pagina la release più recente (*Latest*).</b>
 
+:warning: <b>A seguito della pubblicazione della [DGR n. 8-905 del 24/03/2025](https://www.regione.piemonte.it/governo/bollettino/abbonati/2025/13/siste/00000303.htm) le componenti geologiche devono essere trattate con gli strumenti informatici specifici che saranno resi disponibili alla pagina [“Criteri e indirizzi in materia di difesa del suolo e pianificazione territoriale e urbanistica”.](https://www.regione.piemonte.it/web/temi/protezione-civile-difesa-suolo-opere-pubbliche/criteri-indirizzi-materia-difesa-suolo-pianificazione-territoriale-urbanistica)</b>
+
+
+
 <p align="center"> 
 <img src="/immagini/USC.png" alt="drawing" width="400">
 </p>
